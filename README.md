@@ -1,4 +1,4 @@
-# AddingDetail
+# AddingDetail  https://tejaskarde21.github.io/AddingDetail/localStoreageAddDetail/index.html
 
 const mainContainer = document.getElementById("mainContainer");
 This line gets the DOM element with the id "mainContainer" and assigns it to 
